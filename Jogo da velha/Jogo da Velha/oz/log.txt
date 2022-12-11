@@ -1,0 +1,28 @@
+ X | O | O
+ X | O | E
+ X | X | O
+
+ E | O | X
+ O | X | E
+ X | X | O
+
+ X | O | O
+ E | X | E
+ O | X | X
+
+ X | E | O
+ X | O | O
+ O | X | X
+
+ O | E | O
+ E | O | X
+ X | X | O
+
+ E | X | O
+ O | O | X
+ O | X | E
+
+ X | O | O
+ E | O | E
+ O | X | X
+
